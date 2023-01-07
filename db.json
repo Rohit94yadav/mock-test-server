@@ -29,6 +29,15 @@
         "Description": "Tata Altroz with all original documents",
         "Price": 500000
       }
+    ],
+    "user": [
+      {
+        "id": "1",
+        "name": "Nihira",
+        "password": "admin",
+        "email": "nihiratechiees@gmail.com"
+        
+      }
     ]
   }
   
