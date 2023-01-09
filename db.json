@@ -26,8 +26,8 @@
         "year": 2019,
               "type":"Manual",
         "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
+        "description": "Tata Altroz with all original documents",
+        "price": 500000
       }
     ],
     "user": [
